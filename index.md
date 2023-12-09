@@ -12,5 +12,11 @@
 print('Hello World! I am learning Github Markdown 😊.')
 ```
 
+#### 4. Making a task list
+
+- [ ] Turn On Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Yet to learn more
 
